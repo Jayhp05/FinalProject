@@ -1,0 +1,7 @@
+tunnels:
+  ollama:
+    addr: 11434
+    proto: http
+  streamlit:
+    addr: 8501
+    proto: http
